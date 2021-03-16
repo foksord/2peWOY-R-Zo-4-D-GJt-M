@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TurkcellBip")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Turkcell Bip Application")]
+[assembly: AssemblyDescription("Turkcell Bip Application")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TurkcellBip")]
+[assembly: AssemblyCompany("Foksord Personal Development")]
+[assembly: AssemblyProduct("Turkcell Bip")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
